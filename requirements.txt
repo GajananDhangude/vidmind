@@ -1,0 +1,11 @@
+langchain
+langchain_community 
+langchain_groq
+langchain_core
+youtube_transcript_api
+python-dotenv
+tqdm
+transformers
+sentence-transformers
+fastapi
+uvicorn
